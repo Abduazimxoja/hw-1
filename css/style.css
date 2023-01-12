@@ -2,11 +2,15 @@ body {
    margin: 0;
 }
 
-.conteiner_1 {
-   padding: 1px 20px 20px 20px;
+
+.bg {
    background-color: #595647;
+}
+.conteiner_1 {
+   width: 1000px;
+   padding: 40px 20px;
    color: #fff;
-   margin-bottom: 50px;
+   margin: 0 auto 50px auto;
    font-family: sans-serif;
 }
 
@@ -30,6 +34,8 @@ p {
 }
 
 .conteiner2 {
+   width: 1000px;
+   margin: 0 auto 50px auto;
    padding: 0 20px 20px;
 }
 
